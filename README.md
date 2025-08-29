@@ -1,4 +1,4 @@
-# frontend-lab
+# frontend-lab Kevin Ramirez C26240
 
 ## Project setup
 ```
